@@ -8,7 +8,7 @@ Our research addresses the critical vulnerability of **Denial-of-Wallet (DoW)** 
 ## 🏗️ System Architecture
 The proposed framework operates out-of-band to ensure zero latency impact on the primary application logic. It captures metadata (telemetry) and uses an AI engine to classify behavior as benign or malicious.
 
-![System Architecture](https://github.com/RaqeebaYasin/serverless-ai-ids/raw/main/docs/image_dab19f.png)
+(https://github.com/RaqeebaYasin/serverless-ai-ids/raw/main/docs/image_dab19f.png)
 
 ## 🚀 Key Research Contributions
 - **Lightweight Behavioral Analysis:** Utilizes metadata (duration, memory, invocation frequency) instead of resource-heavy Deep Packet Inspection (DPI).
