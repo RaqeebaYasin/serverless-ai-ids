@@ -4,7 +4,7 @@
 This is an independent research project focused on securing cloud-native serverless models. We propose a lightweight IDS that uses **Semi-Supervised Machine Learning** to establish a behavioral baseline, specifically targeting **Denial-of-Wallet (DoW)** and **Event-Injection** attacks.
 
 ## 🏗️ System Architecture
-![Architecture Diagram](./docs/architecture-diagram.png)
+![Architecture Diagram](./docs/architecture.png)
 
 ## 🚀 Key Features
 - **Metadata-Driven:** No Deep Packet Inspection (DPI) required, preserving latency.
