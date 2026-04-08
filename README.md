@@ -1,4 +1,5 @@
 # AI-Driven Intrusion Detection for Serverless Architectures
+[![DOI](https://zenodo.org/badge/1204681672.svg)](https://doi.org/10.5281/zenodo.19468334)
 
 ## 📌 Project Overview
 This repository contains the independent research and prototype implementation of a lightweight **Intrusion Detection System (IDS)** specifically designed for serverless computing environments (FaaS). 
